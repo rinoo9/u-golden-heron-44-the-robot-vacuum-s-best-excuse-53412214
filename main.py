@@ -16,13 +16,20 @@ itself. That fits the judge brief: one line, 140 characters or fewer,
 that is first a plausible robot-vacuum excuse for missing a spot and
 then funny through a surprising, specific image rather than a generic
 apology.
+
+Round 4 craft notes: a fresh angle — no crumbs, no landmark, no
+mediation. The excuse reframes the miss as deference: the dust bunny
+has "squatter's rights", so skipping the spot is not laziness but
+respect for a longer-standing resident. The punchline lands because
+the robot treats a ball of dust as a tenant with more seniority than
+the human who owns the house. 120 characters, under the 140 cap.
 """
 
 import os
 
 EXCUSE = (
-    "I left that corner dusty on purpose: the crumbs filed a noise "
-    "complaint, and I am still in mediation with them."
+    "I did not miss that spot \u2014 I was respecting the dust bunny's "
+    "squatter's rights. It has lived there longer than you have."
 )
 
 
